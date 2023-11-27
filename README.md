@@ -6,6 +6,8 @@ A slot map is an associative container that stores data contiguously in memory a
 
 note: in the actual implementation the generation number is also incremented when removing an element.
 
+note: `slotmap_old.hpp` is just an old implementation, check `slotmap.hpp` for the most recent one.
+
 ## Used resources
 
 - https://youtu.be/ZfWF9tqQOh0?list=PLmxqg54iaXrjamduSxTicxzLYC9tQeaFl
