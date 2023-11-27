@@ -4,6 +4,8 @@ A slot map is an associative container that stores data contiguously in memory a
 
 ![](scheme.png)
 
+note: in the actual implementation the generation number is also incremented when removing an element.
+
 ## Used resources
 
 - https://youtu.be/ZfWF9tqQOh0?list=PLmxqg54iaXrjamduSxTicxzLYC9tQeaFl
