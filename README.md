@@ -9,6 +9,6 @@ note: in the actual implementation the generation number is also incremented whe
 ## Used resources
 
 - https://youtu.be/ZfWF9tqQOh0?list=PLmxqg54iaXrjamduSxTicxzLYC9tQeaFl
-- https://youtu.be/-8UZhDjgeZU?si=iaBnd99Y9P9OXLXp
+- https://www.youtube.com/watch?v=SHaAR7XPtNU
 - unit test using the boost ut library: https://github.com/boost-ext/ut
 
